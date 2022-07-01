@@ -1,0 +1,9 @@
+INV, K
+Political, H
+Civil, H
+High, H
+XR, Inv
+PPP, High
+Political, Civil
+Political, High
+
